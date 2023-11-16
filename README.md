@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently studying at [Robotics, Cognition, Intelligence @ Technical University of Munich.](https://www.cit.tum.de/cit/studium/studiengaenge/master-robotics-cognition-intelligence/)
 
-- 🌱 I’m currently learning **AI, Deep Learning, Machine Learning, Computer Vision and Robotics**
+- - 🔭 I graduated from [Automotive Engineering @ Jilin University.](https://auto.jlu.edu.cn/EN/Home.htm)
 
-- 🔭 I graduated from [Automotive Engineering @ Jilin University.](https://auto.jlu.edu.cn/EN/Home.htm)
+- 🌱 I’m currently learning **AI, Deep Learning, Machine Learning, Computer Vision and Robotics**
 
 - 📫 How to reach me **yiderigun.yiderigun@tum.de**
 
