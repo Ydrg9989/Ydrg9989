@@ -1,50 +1,96 @@
-### Hi there 👋
+### Hi there 👋  
 
-<h1 align="center">Hi 👋, I'm Yiderigun</h1>
-<h3 align="center">A passionate AI researcher & engineer based in Germany 🇩🇪</h3>
+<h1 align="center">Hi, I'm Yiderigun</h1>
+<h3 align="center">AI Researcher | Deep Learning & Robotics Enthusiast | ML Engineer</h3>
 
-🌍 I'm deeply interested in **Deep Learning, Machine Learning, Robotics, and Computer Vision**  
-📚 Currently pursuing my **Master’s in Robotics, Cognition, and Intelligence** at [TUM](https://www.cit.tum.de/cit/studium/studiengaenge/master-robotics-cognition-intelligence/)  
-🎓 Previously earned my **Bachelor’s in Automotive Engineering** from [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm)  
-💡 Researching **AI-powered simulations, transfer learning, and anomaly detection**  
-📫 Reach me at: **yiderigun.yiderigun@tum.de**  
-
----
-
-### 🚀 **Technical Skills & Tools:**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="PyTorch" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> 
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> 
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/> 
-</p>
+🌍 Based in Germany 🇩🇪 | Passionate about **Artificial Intelligence, Deep Learning, and Robotics**  
+🎓 **Master’s in Robotics, Cognition, and Intelligence** at [Technical University of Munich](https://www.cit.tum.de/cit/studium/studiengaenge/master-robotics-cognition-intelligence/)  
+🎓 **Bachelor’s in Automotive Engineering** at [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm)  
+💡 **Research Interests:** AI for time-series data, Transfer Learning, and Autonomous Systems  
+📫 **Contact:** yiderigun.yiderigun@tum.de | [LinkedIn](https://linkedin.com/in/yiderigun)  
 
 ---
 
-### 🌟 **Connect with Me:**
-<p align="left">
-  <a href="https://linkedin.com/in/yiderigun" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-</p>
+## 🚀 Work Experience  
+🔬 **Master Thesis Student** | **BMW Group (FIZ), Munich** *(July 2024 – Present)*  
+   - Researching **deep learning-based thermal management simulation** for **Battery Electric Vehicles (BEVs)**  
+   - Developing **DNN and transfer learning** methods for **time-series analysis**  
+
+🧑‍🏫 **Teaching Assistant** | **Technical University of Munich** *(Oct. 2024 – Present)*  
+   - TA for **Fundamentals of Artificial Intelligence**  
+   - Designed programming exercises on **Constraint Satisfaction Problems**  
+
+🔍 **Research Assistant** | **Jilin University** *(Aug. 2021 – Feb. 2022)*  
+   - Developed **electronic chassis control** for **autonomous vehicles** using Simulink  
+   - Installed and tested multiple **autonomous driving sensors**  
 
 ---
 
-### 📌 **Projects & Research:**
-- 🔥 **[Master’s Thesis @ BMW Group](#)**: Deep learning-based thermal management simulation for BEVs
-- 🚀 **[Transfer Learning for Energy Prediction](#)**: Using domain adaptation for battery electric vehicle energy estimation
-- 📈 **[Anomaly Detection in Manufacturing](#)**: Researching deep learning for industrial quality control
+## 🏆 Research & Projects  
 
-*(More projects coming soon!)*
+🔹 **3D Human Motion Analysis** *(Mar. 2024 – July 2024)*  
+   - Reviewed **diffusion models** for **human motion generation**  
+
+🔹 **Simulation-based Autonomous Driving in Crowded City** *(Mar. 2023 – Sept. 2023)*  
+   - Simulated **urban traffic** using **Unity**  
+   - Developed an **image-based ML motion planner**  
+
+🔹 **CVPR 2023 Autonomous Driving Challenge** *(Feb. 2023 – May 2023)*  
+   - Built an **ML-based path planner** for the **nuPlan Planning Challenge**  
+   - Deployed models with **Docker**  
+
+🔹 **Brain Tumor Detection with CNNs** *(Sept. 2022 – Jan. 2023)*  
+   - Developed a **CNN-based brain tumor classification model**  
+   - Optimized model **accuracy and speed** for **medical imaging**  
+
+🔹 **Deep Learning with PyTorch** *(Apr. 2022 – Aug. 2022)*  
+   - Used **CNNs** for **ImageNet classification**  
+   - Benchmarked different architectures  
 
 ---
 
-### 📊 **GitHub Stats:**
+## 🛠️ Skills  
+
+### **Programming:**  
+🔹 **Python (Advanced), MATLAB (Intermediate), C++ (Basic), SQL (Basic)**  
+
+### **Libraries & Frameworks:**  
+🔹 **PyTorch, TensorFlow, Keras, OpenCV, Scikit-learn, Pandas, NumPy**  
+
+### **Tools & Platforms:**  
+🔹 **Git, Docker, AWS, Microsoft Azure, ROS**  
+
+### **Languages:**  
+🔹 **English (C1), German (B2), Chinese (Native), Mongolian (Native)**  
+
+---
+
+## 🎓 Certifications  
+
+🏅 **GANs Specialization** *(DeepLearning.AI, May 2024)*  
+🏅 **Generative AI with LLMs** *(AWS, Feb. 2024)*  
+🏅 **IBM Data Science Professional Certificate** *(IBM, June 2023)*  
+
+---
+
+## 📊 GitHub Stats  
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yiderigun&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
+
+---
+
+## 🎯 Hobbies & Interests  
+
+🏋️ Strength Training | 🏃 Jogging | 📖 Reading **Management & Career Development** Books  
+🎙️ Listening to AI & ML Podcasts | 💡 Exploring Emerging AI Technologies  
+
+---
+
+🌟 **Let's Connect!**  
+💼 **LinkedIn:** [linkedin.com/in/yiderigun](https://linkedin.com/in/yiderigun)  
+📧 **Email:** yiderigun.yiderigun@tum.de  
+
+---
+
