@@ -3,10 +3,10 @@
 <h1 align="center">Hi, I'm Yiderigun</h1>
 <h3 align="center">AI Researcher | Deep Learning & Robotics Enthusiast | ML Engineer</h3>
 
-🌍 Based in Germany 🇩🇪 | Passionate about **Artificial Intelligence, Deep Learning, and Robotics**  
+🌍 Based in Germany 🇩🇪 | Passionate about **Artificial Intelligence, Deep Learning, and Machine Learning**  
 🎓 **Master’s in Robotics, Cognition, and Intelligence** at [Technical University of Munich](https://www.cit.tum.de/cit/studium/studiengaenge/master-robotics-cognition-intelligence/)  
 🎓 **Bachelor’s in Automotive Engineering** at [Jilin University](https://auto.jlu.edu.cn/EN/Home.htm)  
-💡 **Research Interests:** AI for time-series data, Transfer Learning, and Autonomous Systems  
+💡 **Research Interests:** AI for Engineering, Generative Models, and Autonomous Systems  
 📫 **Contact:** yiderigun.yiderigun@tum.de | [LinkedIn](https://linkedin.com/in/yiderigun)  
 
 ---
